@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Task 1b</title>
+  <h1>Task 1b: Compound Interest</h1>
+  <h2>How much savings would you have in your bank account after t years when r% of interest is compounded to your savings every year?</h2>
+  <h3>Use a textbox for you to input the various values that you need</h3>
+</head>
+
+<body>
+  <p>--------------------------------------------------------------------</p>
+
+  Initial amount in $: <input type="text" id="principal" placeholder="Enter the principal amount"><br>
+
+  Rate in %: <input type="text" id="rate" placeholder="Enter the percentage interest rate"><br>
+
+  Number of months: <input type="text" id="time" placeholder="Enter the number of years" oninput="calculate_interest()"><br>
+  <h3 id="amount"></h3>
+  <script src="script1b_solution.js"></script> 
+</body>
+</html>
