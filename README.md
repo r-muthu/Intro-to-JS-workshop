@@ -9,6 +9,6 @@
 <b>Challenge 2:</b> Create a webpage with a counter that can add or lower count. Use .style.colour to change colour of your text.
 
 
-<b>MAIN CHALLENGE:</b> 
+<b>MAIN CHALLENGE (Challenge 3):</b> 
 1. Create a function that changes the colour of a webpage with the click of a button. If you have succesfully completed with this task:
 2. Add a score count that calculates the number of times that you input the current background colour of the page correctly (like a quiz). Every time you get the correct colour, the page will automatically change colour.</p>
